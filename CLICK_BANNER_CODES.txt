@@ -1,0 +1,10 @@
+아래 https://YOUR-SITE.example은 예시입니다. 실제 배포 주소로 바꾸세요.
+
+[Markdown]
+[![이 집 너구리 미쳤나 봐](https://YOUR-SITE.example/assets/click-banner.png)](https://YOUR-SITE.example/)
+
+[HTML]
+<a href="https://YOUR-SITE.example/" target="_blank" rel="noopener noreferrer"><img src="https://YOUR-SITE.example/assets/click-banner.png" alt="이 집 너구리 미쳤나 봐" style="display:block;width:100%;height:auto;border:0;"></a>
+
+[배너 페이지]
+https://YOUR-SITE.example/banner.html
